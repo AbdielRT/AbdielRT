@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Abdiel</h1>
 <h3 align="center">A passionate Data Scientist from Mexico</h3>
 
-- 👯 I’m looking to collaborate on **health and sustainable development** projects
+- 👯 I’m looking to collaborate on **health** and **sustainable development** projects
 
 - 📫 How to reach me **polito.abs@gmail.com**
 
