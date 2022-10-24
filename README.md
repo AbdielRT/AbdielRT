@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **polito.abs@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/abdielramitor](www.linkedin.com/in/abdielramitor)
+- 📄 Know about my experiences [www.linkedin.com/in/abdielramitor](https://www.linkedin.com/in/abdielramitor)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
