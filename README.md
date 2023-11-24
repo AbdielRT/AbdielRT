@@ -1,17 +1,14 @@
 <h1 align="center">Hey there, I'm Abdiel</h1>
-<h3 align="center">A passionate Data Scientist from Mexico</h3>
-
+<!--
+<h3 align="center">A passionate Data Scientist and AI</h3>
 - 👯 I’m looking to collaborate on **health** and **sustainable development** projects
-
-- 📫 How to reach me **polito.abs@gmail.com**
-
 - 📄 Know about my experiences [linkedin.com/in/abdielramitor](https://www.linkedin.com/in/abdielramitor)
-
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p> -->
+</p>
+-->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🚀 Languages and Tools of interest:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
